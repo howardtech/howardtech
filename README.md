@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @howardtech
-- 👀 I’m interested in... Python, Poweshell, Swift and C#
+- 👀 I’m interested in... Python, Powershell, Swift and C#
 - 🌱 I’m currently learning... Python
 - 💞️ I’m looking to collaborate on... Open Source Python Projects
 - 📫 How to reach me... howardtechone@gmail.com
